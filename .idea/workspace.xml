@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee4f195a-247d-4a48-a353-84c679453803" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RevisaoRA1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Multa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex12/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
